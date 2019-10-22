@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.1.0](https://github.com/mpvineesh/lerna-demo/compare/backend@1.0.2...backend@1.1.0) (2019-10-22)
+
+
+### Features
+
+* new feature added ([892dabc](https://github.com/mpvineesh/lerna-demo/commit/892dabc))
+
+
+
+
+
 ## [1.0.2](https://github.com/mpvineesh/lerna-demo/compare/backend@1.0.1...backend@1.0.2) (2019-10-22)
 
 
